@@ -10,6 +10,7 @@ This repository demonstrates the application of core Python concepts through pra
 * **Number Guessing Game** 🎯 – Interactive CLI-based game using random number generation and user input handling
 * **Basic Calculator** 🧮 – Performs fundamental arithmetic operations with user input
 * **Password Generator** 🔐 *(planned)* – Generates secure random passwords using Python libraries
+* **Stone Paper Scissors Game** 🎮 – A simple Python game where the user plays against the computer using random choices and game logic
 
 🧠 Technical Concepts Covered
 * Control Flow (Conditional Statements, Loops)
